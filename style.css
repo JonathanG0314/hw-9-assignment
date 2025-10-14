@@ -31,3 +31,8 @@ main {
   height: auto;
   display: block;
 }
+
+.text {
+  width: 80%;
+  margin: 2.5rem auto;
+}
