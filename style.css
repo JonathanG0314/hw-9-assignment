@@ -11,3 +11,11 @@ html, body {
   background-color: #7b68ee;
   color: #ffffff;
 }
+
+main {
+  background-color: #b22222;
+  border-radius: 12px;
+  width: 450px;
+  margin: 4rem auto;
+  overflow: hidden;
+}
