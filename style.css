@@ -23,5 +23,11 @@ main {
 .container {
   width: 100%;
   height: auto;
+  display: hidden;
+}
+
+.decor {
+  width: 100%;
+  height: auto;
   display: block;
 }
