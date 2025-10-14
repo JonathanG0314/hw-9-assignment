@@ -9,11 +9,11 @@ html, body {
   font-size: 16px;
   text-align: center;
   background-color: #232946;
-  color: #eebbc3;
+  color: #b8c1ec;
 }
 
 main {
-  background-color: #b22222;
+  background-color: #eebbc3;
   border-radius: 12px;
   width: 450px;
   margin: 4rem auto;
