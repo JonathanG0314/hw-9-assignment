@@ -52,3 +52,8 @@ main {
   margin-bottom: 0.25rem;
 }
 
+.quoted {
+  color: #20b2aa;
+  font-style: italic;
+  text-transform: lowercase;
+}
